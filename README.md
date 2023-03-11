@@ -23,7 +23,7 @@
 
 ---
 
-<h2>Demostracion:</h2>
+<h2>Demostración:</h2>
 
 [![Alt text](https://img.youtube.com/vi/PiIlZdnO8Mk/0.jpg)](https://www.youtube.com/watch?v=PiIlZdnO8Mk)
 
