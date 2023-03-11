@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="484748bd-9c8d-4f7f-bdec-d0addb39dc2a" name="Changes" comment="Se modifica archivo README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CurrencyConverter.java" afterDir="false" />
-    </list>
+    <list default="true" id="484748bd-9c8d-4f7f-bdec-d0addb39dc2a" name="Changes" comment="Se modifica archivo README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +62,7 @@
       <updated>1678466237300</updated>
       <workItem from="1678466238963" duration="42000" />
       <workItem from="1678466340966" duration="62000" />
-      <workItem from="1678466461583" duration="15298000" />
+      <workItem from="1678466461583" duration="15567000" />
     </task>
     <task id="LOCAL-00001" summary="Se modifica archivo README.md">
       <created>1678502497386</created>
@@ -77,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678502497386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se modifica archivo README.md">
+      <created>1678502697535</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678502697535</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Se modifica archivo README.md">
+      <created>1678502729410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678502729410</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

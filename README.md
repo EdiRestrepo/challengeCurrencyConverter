@@ -9,15 +9,17 @@
 <h3>Conversor de divisas y temperatura</h3>
 
 <h3>Divisas:</h3>
-1. Convertir de pesos Colombianos a Dólar
-2. Convertir de pesos Colombianos  a Euros
-3. Convertir de pesos Colombianos  a Libras Esterlinas 
-4. Convertir de pesos Colombianos  a Yen Japonés 
-5. Convertir de pesos Colombianos a Won sul-coreano
+
+*  Convertir de pesos Colombianos a Dólar
+* Convertir de pesos Colombianos  a Euros
+* Convertir de pesos Colombianos  a Libras Esterlinas 
+* Convertir de pesos Colombianos  a Yen Japonés 
+* Convertir de pesos Colombianos a Won sul-coreano
 
 <h3>Temperatura:</h3>
-1. Convertir de grados farenheit a celsius
-2. Convertir de grados celsius a farenheit
+
+* Convertir de grados farenheit a celsius
+* Convertir de grados celsius a farenheit
 
 ---
 
@@ -30,5 +32,6 @@
 <h2>Tecnologías utilizadas:</h2>
 
 * Java 18.0.1.1
+
 
 
