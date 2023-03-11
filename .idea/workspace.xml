@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="484748bd-9c8d-4f7f-bdec-d0addb39dc2a" name="Changes" comment="">
+    <list default="true" id="484748bd-9c8d-4f7f-bdec-d0addb39dc2a" name="Changes" comment="Se modifica archivo README.md">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -39,6 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Edison/Desktop/Escritorio/CURSOS PROGRAMACION/Java/Java-Oracle-ONE/challengeCurrencyConverter"
   }
@@ -67,8 +68,16 @@
       <updated>1678466237300</updated>
       <workItem from="1678466238963" duration="42000" />
       <workItem from="1678466340966" duration="62000" />
-      <workItem from="1678466461583" duration="14977000" />
+      <workItem from="1678466461583" duration="15298000" />
     </task>
+    <task id="LOCAL-00001" summary="Se modifica archivo README.md">
+      <created>1678502497386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678502497386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se modifica archivo README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se modifica archivo README.md" />
   </component>
 </project>
